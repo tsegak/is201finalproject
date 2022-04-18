@@ -1,0 +1,18 @@
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;  
+}
+
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+Body{
+    background-color: rgb(165, 195, 190);
+    background-blend-mode: color-burn;
+}
+
+h1{
+    font-style: oblique;
+    color: ivory;
+}
